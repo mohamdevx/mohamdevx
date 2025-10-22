@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mohamdevx/mohamdevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mohamad
 
-Here are some ideas to get you started:
+### Software Developer | Problem Solver | Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub followers](https://img.shields.io/github/followers/mohamdevx?style=flat-square&logo=github&logoColor=white&labelColor=2d333b&color=58a6ff)](https://github.com/mohamdevx?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=mohamdevx&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/mohamdevx)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+```text
+Languages   ● Python  ● JavaScript  ● Java  ● C++
+Frontend    ● React   ● HTML/CSS    ● Tailwind
+Backend     ● Node.js ● Express     ● Django
+Tools       ● Git     ● Docker      ● VS Code
