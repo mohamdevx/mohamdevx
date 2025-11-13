@@ -1,91 +1,119 @@
-<h1 align="center">👋 Hi, I'm Mohammad Bin Abdullah</h1>
-<h3 align="center">Full-Stack Developer | DevOps & System Admin | Mobile Apps | SMM | Problem Solver</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamdevx&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
+<h1 align="center">Mohammad Bin Abdullah</h1>
+<p align="center"><strong>Full-Stack Engineer | Mobile Developer | DevOps & System Administration | E-Commerce Solutions</strong></p>
 
 ---
 
-## 🚀 About Me  
-I’m a **multi-disciplinary tech professional** with hands-on experience across:
+## About Me
+I am a multidisciplinary software engineer with experience in **full-stack development**, **mobile app engineering**, **DevOps**, **system & network administration**, and **e-commerce technology solutions**.  
+My work spans scalable backend systems, modern frontend interfaces, mobile applications, CMS/e-commerce platforms, and operational automation.
 
-- 🧑‍💻 **Full-Stack Development** — MERN, Django, REST APIs  
-- 📱 **React Native App Development**  
-- 🌐 **WordPress, Shopify & E-Commerce Solutions**  
-- 🔧 **DevOps & System/Network Administration**  
-- 📈 **Social Media Marketing & Digital Growth**  
-- 🤝 **Customer & Business Development**
-
-I focus on **clean code**, scalability, automation, and delivering products that solve real problems.
+I focus on:
+- Building maintainable, production-ready systems  
+- Delivering scalable backend architectures  
+- Optimizing CI/CD, automation, and infrastructure  
+- Developing mobile applications with React Native  
+- Implementing technical solutions for WordPress, Shopify & custom CMS  
+- Supporting clients through end-to-end technical delivery
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Expertise
 
 ### **Languages**
-- Python • JavaScript • TypeScript • Java • C++
+- JavaScript (ES6+), TypeScript  
+- Python  
+- Java  
+- C++  
 
-### **Frontend**
-- React.js • Next.js • Tailwind CSS • HTML/CSS
+### **Backend Development**
+- Node.js, Express.js  
+- Django / DRF  
+- REST API Design  
+- Authentication & Authorization (JWT, OAuth)
 
-### **Backend**
-- Node.js • Express.js • Django • REST API Development
+### **Frontend Development**
+- React.js  
+- Next.js  
+- Tailwind CSS  
+- Responsive UI/UX Implementation
 
-### **Mobile Apps**
-- React Native (Expo & CLI)
+### **Mobile Development**
+- React Native (Expo & Bare Workflow)
 
 ### **Databases**
-- MongoDB • SQL • PostgreSQL • Firebase
+- MongoDB  
+- PostgreSQL  
+- MySQL  
+- Firebase  
 
-### **DevOps & Tools**
-- Git & GitHub  
-- Docker • CI/CD  
-- Linux SysAdmin  
-- Networking & Firewall Configurations  
-- VS Code
+### **DevOps & Infrastructure**
+- Docker  
+- Linux Administration  
+- Nginx / Apache  
+- CI/CD Pipelines  
+- Networking & Firewall Management  
+- Server Deployment & Optimization
 
-### **CMS & E-Commerce**
-- WordPress • WooCommerce  
-- Shopify
-
----
-
-## 🧩 Featured Projects
-(Make sure these match your real repos)
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Backend CRUD API** | REST API with Express.js + MongoDB | Node.js, Express |
-| **Book Store MERN** | Full MERN stack CRUD app | React, Node, MongoDB |
-| **Simple Backend CRUD** | Minimal API structure for beginners | Node, Express |
+### **CMS & E-Commerce Platforms**
+- WordPress (Custom Themes & Plugins)  
+- Shopify (Liquid, Theme Customization)  
+- WooCommerce Integrations  
 
 ---
 
-## 🏆 Achievements
-- 🦈 **Pull Shark**  
-- 🎯 **YOLO**  
-- ⚡ **Quickdraw**  
-- ⭐ **Pro Badge**
+## Selected Projects
+*(Public repositories only — omit confidential work)*
 
-> You unlocked new achievements — you can toggle private contributions in **Settings → Profile**.
+### **Backend CRUD API**
+Lightweight REST API demonstrating routing, controllers, middleware, and DB integration.
+
+**Tech:** Node.js, Express.js, MongoDB  
+**Repo:** `/backend-crud-rest-api`
 
 ---
 
-## 📈 GitHub Stats
+### **Book Store MERN Application**
+A complete MERN-based CRUD system with authentication and product management.
+
+**Tech:** React, Node.js, Express, MongoDB  
+**Repo:** `/Book-Store-Mern`
+
+---
+
+### **Simple CRUD Backend**
+Minimal template for quickly bootstrapping Express APIs.
+
+**Tech:** Node.js, Express  
+**Repo:** `/simple-crud-api-backend`
+
+---
+
+## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamdevx&show_icons=true&theme=react" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamdevx&theme=react" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamdevx&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamdevx&theme=github-dark&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamdevx&layout=compact&theme=github_dark&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 📫 Contact
-📧 **Email:** your-email-here  
-🌐 **LinkedIn:** your-linkedin-here  
-💼 **Portfolio:** your-portfolio-link  
+## Professional Interests
+- Full-stack product development  
+- Scalable API engineering  
+- Mobile application development  
+- Cloud & DevOps automation  
+- E-commerce system implementation  
+- Technical leadership & customer-centric engineering  
 
 ---
 
-### ⭐ *If you like my work, consider following or giving a star to my repos!*
+## Contact
+**Email:** mohamdevx@gmail.com  
+**LinkedIn:** your-link-here  
+**Portfolio:** your-site-here  
+
+---
