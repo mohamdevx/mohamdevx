@@ -1,119 +1,67 @@
-<h1 align="center">Mohammad Bin Abdullah</h1>
-<p align="center"><strong>Full-Stack Engineer | Mobile Developer | DevOps & System Administration | E-Commerce Solutions</strong></p>
+# Mohammad Bin Abdullah
+
+> System Administration · Full‑Stack Engineer · Mobile Developer
 
 ---
 
-## About Me
-I am a multidisciplinary software engineer with experience in **full-stack development**, **mobile app engineering**, **DevOps**, **system & network administration**, and **e-commerce technology solutions**.  
-My work spans scalable backend systems, modern frontend interfaces, mobile applications, CMS/e-commerce platforms, and operational automation.
+Overview
 
-I focus on:
-- Building maintainable, production-ready systems  
-- Delivering scalable backend architectures  
-- Optimizing CI/CD, automation, and infrastructure  
-- Developing mobile applications with React Native  
-- Implementing technical solutions for WordPress, Shopify & custom CMS  
-- Supporting clients through end-to-end technical delivery
+I began my career building WordPress themes, plugins, and e‑commerce stores — focusing on client-facing sites and practical, maintainable solutions. Over time I expanded into full‑stack JavaScript and mobile development, shipping responsive web apps and React Native projects. Today I work primarily in System Administration and DevOps: designing reliable Linux infrastructure, automating operations, and keeping services secure and performant.
+
+This combination of product-focused development and systems engineering lets me bridge the gap between code and infrastructure.
 
 ---
 
-## Technical Expertise
+Career highlights (short)
 
-### **Languages**
-- JavaScript (ES6+), TypeScript  
-- Python  
-- Java  
-- C++  
-
-### **Backend Development**
-- Node.js, Express.js  
-- Django / DRF  
-- REST API Design  
-- Authentication & Authorization (JWT, OAuth)
-
-### **Frontend Development**
-- React.js  
-- Next.js  
-- Tailwind CSS  
-- Responsive UI/UX Implementation
-
-### **Mobile Development**
-- React Native (Expo & Bare Workflow)
-
-### **Databases**
-- MongoDB  
-- PostgreSQL  
-- MySQL  
-- Firebase  
-
-### **DevOps & Infrastructure**
-- Docker  
-- Linux Administration  
-- Nginx / Apache  
-- CI/CD Pipelines  
-- Networking & Firewall Management  
-- Server Deployment & Optimization
-
-### **CMS & E-Commerce Platforms**
-- WordPress (Custom Themes & Plugins)  
-- Shopify (Liquid, Theme Customization)  
-- WooCommerce Integrations  
+- WordPress & E‑commerce: custom themes, plugins, WooCommerce, Shopify migrations and optimizations.
+- Full‑stack & Mobile: modern JavaScript stacks (React, Next.js), APIs (Node/Django), and React Native apps.
+- System Administration & DevOps (current): Linux administration, Docker, CI/CD, networking, monitoring, and automation.
 
 ---
 
-## Selected Projects
-*(Public repositories only — omit confidential work)*
+Core skills
 
-### **Backend CRUD API**
-Lightweight REST API demonstrating routing, controllers, middleware, and DB integration.
-
-**Tech:** Node.js, Express.js, MongoDB  
-**Repo:** `/backend-crud-rest-api`
-
----
-
-### **Book Store MERN Application**
-A complete MERN-based CRUD system with authentication and product management.
-
-**Tech:** React, Node.js, Express, MongoDB  
-**Repo:** `/Book-Store-Mern`
+- Web & Frontend: HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js, Tailwind
+- Backend & APIs: Node.js, Express, Django, RESTful design, authentication, performance tuning
+- Mobile: React Native (Expo + bare workflow)
+- DevOps & Infra: Linux (Debian/Ubuntu), Docker, Nginx, systemd, CI/CD pipelines, basic cloud fundamentals
+- Databases & Storage: PostgreSQL, MySQL, MongoDB, Redis
+- CMS & E‑commerce: WordPress (themes/plugins), WooCommerce, Shopify
 
 ---
 
-### **Simple CRUD Backend**
-Minimal template for quickly bootstrapping Express APIs.
+Selected projects
 
-**Tech:** Node.js, Express  
-**Repo:** `/simple-crud-api-backend`
+- Backend CRUD API — a small, well‑structured REST API demonstrating routing, middleware, and DB patterns (Node/Express + MongoDB).
+- Book Store (MERN) — full CRUD app with auth and product management; useful as a portable reference for full‑stack patterns.
+- Simple CRUD Backend — minimal template to bootstrap APIs quickly.
+
+(See repository folders for public demos and templates.)
 
 ---
 
-## GitHub Insights
+GitHub insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamdevx&show_icons=true&theme=github_dark&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamdevx&theme=github-dark&hide_border=true" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamdevx&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</p>
+---
+
+Contact
+
+- Email: mohamdevx@gmail.com
+
 
 ---
 
-## Professional Interests
-- Full-stack product development  
-- Scalable API engineering  
-- Mobile application development  
-- Cloud & DevOps automation  
-- E-commerce system implementation  
-- Technical leadership & customer-centric engineering  
+What I can help with
 
----
+- Production hardening (Linux, backups, monitoring)
+- CI/CD and deployment pipelines
+- WordPress & e‑commerce migrations
+- Full‑stack feature design and performance improvements
 
-## Contact
-**Email:** mohamdevx@gmail.com  
-**LinkedIn:** your-link-here  
-**Portfolio:** your-site-here  
-
----
+If you'd like this adapted further (shorter intro, different tone, or to highlight specific projects), tell me which part to tweak and I'll update it.
