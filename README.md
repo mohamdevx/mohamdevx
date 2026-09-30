@@ -32,16 +32,6 @@ I bridge the gap between code and infrastructure.
 
 ---
 
-## Selected projects
-
-- **Backend CRUD API** — a small, well-structured REST API demonstrating routing, middleware, and DB patterns (Node/Express + MongoDB).
-- **Book Store (MERN)** — full CRUD app with auth and product management; useful as a portable reference for full-stack patterns.
-- **Simple CRUD Backend** — minimal template to bootstrap APIs quickly.
-
-(See pinned repos for more.)
-
----
-
 ## Contact
 
 - **Email:** mohamdevx@gmail.com
